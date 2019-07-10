@@ -14,3 +14,8 @@
 //= require activestorage
 //= require turbolinks
 //= require_tree .
+//= require jquery
+//= require angular
+//= require vue/dist/vue.js
+//= require react-is/umd/react-is.development.js
+//= require react-is/umd/react-is.production.min.js
